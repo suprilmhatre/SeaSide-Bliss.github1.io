@@ -1,0 +1,12 @@
+*{margin: 0; padding: 0; 
+}
+#banner{background:linear-gradient(rgba(0,0,0,0.1),skyblue),url(images/banner.jpg);
+background-size:cover;background-position:center ;  height: 100vh;}
+.logo{width: 110px; height: 160px; position: absolute;
+top:5%;left:5%}
+.banner-text{text-align: center; color: #fff; padding-top: 60px; padding-left: 120px;}
+.banner-text h1{font-size: 12vw;font-family: 'Kaushan Script', cursive;
+}
+.banner-text p{font-size: 3vw; font-style: bold;
+
+}
